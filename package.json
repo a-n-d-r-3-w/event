@@ -1,0 +1,22 @@
+{
+  "name": "event",
+  "version": "1.0.0",
+  "description": "An enum for JavaScript events.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a-n-d-r-3-w/event.git"
+  },
+  "author": "Andrew Liu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/a-n-d-r-3-w/event/issues"
+  },
+  "homepage": "https://github.com/a-n-d-r-3-w/event#readme",
+  "devDependencies": {
+    "prettier": "1.13.7"
+  }
+}
