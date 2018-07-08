@@ -2,7 +2,10 @@
 An enum for JavaScript events. Allows you to replace hard-coded strings like `"beforeunload"` with
  `ResourceEvent.BEFORE_UNLOAD`.
  
-## Example
+## How to install
+`npm install --save event-enum`
+
+## How to use
 
 ```
 const { ResourceEvent } = require("event-enum");
