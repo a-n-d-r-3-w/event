@@ -1,5 +1,5 @@
 {
-  "name": "event",
+  "name": "event-enum",
   "version": "1.0.0",
   "description": "An enum for JavaScript events.",
   "main": "index.js",
